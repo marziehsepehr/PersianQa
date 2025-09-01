@@ -64,7 +64,7 @@ Place PDF and dataset under qadata/ (already included here).
 
 Run the main script:
 
-   ```python task2_refined.py
+   ```python task2_refined.py  ```
 
 This will:
 
